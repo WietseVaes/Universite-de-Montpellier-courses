@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\wietse\desktop\c++folder\examen\main.cpp
+	<iostream>
+
+1644312411 source:c:\users\wietse\desktop\c++folder\examen\main_trapeze.cpp
+	<math.h>
+	<iostream>
+	"trapezoidal.hpp"
+
+1644310541 c:\users\wietse\desktop\c++folder\examen\trapezoidal.hpp
+
+1644313353 source:c:\users\wietse\desktop\c++folder\examen\trapezoidal.cpp
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647427991 source:c:\users\wietse\desktop\c++folder\cc4\lagrange.cpp
+
+1647430215 c:\users\wietse\desktop\c++folder\cc4\lagrange.hpp
+
+1647430014 source:c:\users\wietse\desktop\c++folder\cc4\main.cpp
+	<iostream>
+	"lagrange.hpp"
+	<cmath>
+

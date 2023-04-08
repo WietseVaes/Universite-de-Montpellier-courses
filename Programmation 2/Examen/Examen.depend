@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1649405166 source:c:\users\wietse\desktop\c++folder\examen\main.cpp
+	<iostream>
+
+1649409687 source:c:\users\wietse\desktop\c++folder\examen\ode.cpp
+	"ode.hpp"
+
+1649409484 c:\users\wietse\desktop\c++folder\examen\ode.hpp
+
+1649411243 source:c:\users\wietse\desktop\c++folder\examen\main_ode.cpp
+	"ode.hpp"
+	<iostream>
+	<cmath>
+
+1649409484 source:c:\users\wietse\desktop\c++folder\examen\full.cpp
+	"full.hpp"
+
+1649408035 c:\users\wietse\desktop\c++folder\examen\full.hpp
+
+1649411243 source:c:\users\wietse\desktop\c++folder\examen\symmetric.cpp
+	"symmetric.hpp"
+	<iostream>
+
+1649408849 c:\users\wietse\desktop\c++folder\examen\symmetric.hpp
+
+1649410793 source:c:\users\wietse\desktop\c++folder\examen\main_sum.cpp
+	"full.hpp"
+	"symmetric.hpp"
+	"sum.hpp"
+	<iostream>
+
+1649408966 c:\users\wietse\desktop\c++folder\examen\sum.hpp
+

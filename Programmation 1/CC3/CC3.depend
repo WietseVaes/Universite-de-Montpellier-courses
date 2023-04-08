@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1646734365 source:c:\users\wietse\desktop\c++folder\cc3\upper.cpp
+	"Sym_Mat.hpp"
+
+1646733967 source:c:\users\wietse\desktop\c++folder\cc3\main.cpp
+	<iostream>
+	"Vector.hpp"
+	"Sym_Mat.hpp"
+	"Abstract_Mat.hpp"
+
+1646732472 c:\users\wietse\desktop\c++folder\cc3\sym_mat.hpp
+	"Vector.hpp"
+	"Abstract_Mat.hpp"
+
+1646732472 c:\users\wietse\desktop\c++folder\cc3\vector.hpp
+	<iostream>
+	<cassert>
+	<cmath>
+
+1646732472 c:\users\wietse\desktop\c++folder\cc3\abstract_mat.hpp
+	"Vector.hpp"
+
+1646732472 source:c:\users\wietse\desktop\c++folder\cc3\abstract_mat.cpp
+	"Abstract_Mat.hpp"
+	"Vector.hpp"
+
+1646732472 source:c:\users\wietse\desktop\c++folder\cc3\vector.cpp
+	<iostream>
+	"Vector.hpp"
+
+1646732758 source:c:\users\wietse\desktop\c++folder\cc3\sym_mat.cpp
+	"Sym_Mat.hpp"
+

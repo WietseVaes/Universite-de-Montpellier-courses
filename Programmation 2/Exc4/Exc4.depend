@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1646739560 source:c:\users\wietse\desktop\c++folder\exc4\matrix.cpp
+	<iostream>
+	<cmath>
+	"Matrix.hpp"
+
+1647420861 c:\users\wietse\desktop\c++folder\exc4\matrix.hpp
+	<iostream>
+	"Vector.hpp"
+
+1647422350 c:\users\wietse\desktop\c++folder\exc4\vector.hpp
+	<iostream>
+	<cassert>
+	<cmath>
+
+1647421233 source:c:\users\wietse\desktop\c++folder\exc4\vector.cpp
+	"Vector.hpp"
+
+1647423484 source:c:\users\wietse\desktop\c++folder\exc4\main.cpp
+	"Vector.hpp"
+	"Abstract_Mat.hpp"
+	"Full_Mat.hpp"
+
+1647424664 c:\users\wietse\desktop\c++folder\exc4\abstract_mat.hpp
+	"Vector.hpp"
+
+1647424664 c:\users\wietse\desktop\c++folder\exc4\full_mat.hpp
+	<iostream>
+	"Vector.hpp"
+	"Abstract_Mat.hpp"
+

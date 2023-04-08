@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1647426736 source:c:\users\wietse\desktop\c++folder\dm1\main.cpp
+	<iostream>
+	<cmath>
+	"bisection.hpp"
+	"newton.hpp"
+	<stdlib.h>
+
+1647373386 source:c:\users\wietse\desktop\c++folder\dm1\bisection.cpp
+	"bisection.hpp"
+	<iostream>
+	<cmath>
+	<stdlib.h>
+
+1647371592 c:\users\wietse\desktop\c++folder\dm1\bisection.hpp
+
+1647428678 c:\users\wietse\desktop\c++folder\dm1\newton.hpp
+
+1647430038 source:c:\users\wietse\desktop\c++folder\dm1\newton.cpp
+	"newton.hpp"
+	<cmath>
+
+1648580094 source:c:\users\wietse\desktop\c++folder\dm1\main_newton.cpp
+	<iostream>
+	"newton.hpp"
+	<stdlib.h>
+
+1647457839 source:c:\users\wietse\desktop\c++folder\dm1\class_root_finding.cpp
+	"class_root_finding.hpp"
+	"newton.hpp"
+	"bisection.hpp"
+	<iostream>
+
+1648579454 c:\users\wietse\desktop\c++folder\dm1\class_root_finding.hpp
+	<iostream>
+
+1648580135 source:c:\users\wietse\desktop\c++folder\dm1\main_bisection.cpp
+	<iostream>
+	<cmath>
+	"bisection.hpp"
+	<stdlib.h>
+
+1648580154 source:c:\users\wietse\desktop\c++folder\dm1\main_class_root_finding.cpp
+	"class_root_finding.hpp"
+	<iostream>
+	<cmath>
+

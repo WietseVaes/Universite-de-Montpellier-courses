@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1643795697 source:c:\users\wietse\desktop\c++folder\exc2\rational.cpp
+	"Rational.hpp"
+
+1644925684 source:c:\users\wietse\desktop\c++folder\exc2\main.cpp
+	<iostream>
+	"Rational.hpp"
+	"Rational2.hpp"
+	"Vector.hpp"
+	"Matrix.hpp"
+	<cmath>
+
+1643793728 c:\users\wietse\desktop\c++folder\exc2\rational.cpp
+
+1643795347 c:\users\wietse\desktop\c++folder\exc2\rational.hpp
+
+1643803205 c:\users\wietse\desktop\c++folder\exc2\rational2.hpp
+
+1643802985 source:c:\users\wietse\desktop\c++folder\exc2\rational2.cpp
+	"Rational2.hpp"
+
+1644996423 c:\users\wietse\desktop\c++folder\exc2\vector.hpp
+	<iostream>
+	<cassert>
+	<cmath>
+
+1644996423 source:c:\users\wietse\desktop\c++folder\exc2\vector.cpp
+	<iostream>
+	"Vector.hpp"
+
+1644996423 source:c:\users\wietse\desktop\c++folder\exc2\matrix.cpp
+	<iostream>
+	<cmath>
+	"Matrix.hpp"
+
+1644997761 c:\users\wietse\desktop\c++folder\exc2\matrix.hpp
+	<iostream>
+	"Vector.hpp"
+

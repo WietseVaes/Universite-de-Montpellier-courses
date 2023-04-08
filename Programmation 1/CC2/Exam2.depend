@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1645005777 source:c:\users\wietse\desktop\c++folder\exam2\class_definite_integral.cpp
+	<iostream>
+	"class_definite_integral.hpp"
+
+1645004528 c:\users\wietse\desktop\c++folder\exam2\class_definite_integral.hpp
+
+1645003394 source:c:\users\wietse\desktop\c++folder\exam2\main.cpp
+	<iostream>
+	<math.h>
+	"class_definite_integral.hpp"
+
+1645005764 source:c:\users\wietse\desktop\c++folder\exam2\main_class_integral.cpp
+	<iostream>
+	<math.h>
+	"class_definite_integral.hpp"
+

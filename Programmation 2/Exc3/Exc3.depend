@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1645526918 source:c:\users\wietse\desktop\c++folder\exc3\main.cpp
+	<iostream>
+	"Vector.hpp"
+	"Full_mat.hpp"
+	"Abstract_Mat.hpp"
+	<cmath>
+
+1645524145 source:c:\users\wietse\desktop\c++folder\exc3\abstract_mat.cpp
+	"Abstract_Mat.hpp"
+	"Vector.hpp"
+
+1645529481 source:c:\users\wietse\desktop\c++folder\exc3\full_mat.cpp
+	<iostream>
+	<cmath>
+	"Full_mat.hpp"
+
+1645529626 c:\users\wietse\desktop\c++folder\exc3\full_mat.hpp
+	<iostream>
+	"Vector.hpp"
+	"Abstract_Mat.hpp"
+
+1645012025 c:\users\wietse\desktop\c++folder\exc3\vector.hpp
+	<iostream>
+	<cassert>
+	<cmath>
+
+1645527562 source:c:\users\wietse\desktop\c++folder\exc3\vector.cpp
+	<iostream>
+	"Vector.hpp"
+
+1645529553 c:\users\wietse\desktop\c++folder\exc3\abstract_mat.hpp
+	"Vector.hpp"
+
+1645529481 source:c:\users\wietse\desktop\c++folder\exc3\coo_mat.cpp
+	"COO_mat.hpp"
+
+1645529270 c:\users\wietse\desktop\c++folder\exc3\coo_mat.hpp
+	"Abstract_Mat.hpp"
+	"Vector.hpp"
+

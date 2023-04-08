@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1643110952 source:c:\users\wietse\desktop\c++folder\exc1\main.cpp
+	<iostream>
+	<cmath>
+	"quadraticRoot.hpp"
+	"normRow.hpp"
+	"maxRow.hpp"
+
+1643107096 source:c:\users\wietse\desktop\c++folder\exc1\quadraticroot.cpp
+	<iostream>
+	<cmath>
+
+1643106821 c:\users\wietse\desktop\c++folder\exc1\quadraticroot.hpp
+	<iostream>
+
+1643110577 source:c:\users\wietse\desktop\c++folder\exc1\maxrow.cpp
+	<iostream>
+
+1643106985 c:\users\wietse\desktop\c++folder\exc1\normrow.hpp
+
+1643109776 source:c:\users\wietse\desktop\c++folder\exc1\normrow.cpp
+	<iostream>
+	<cmath>
+
+1643110283 c:\users\wietse\desktop\c++folder\exc1\maxrow.hpp
+	<iostream>
+
